@@ -1,4 +1,22 @@
 {
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript demo",
+  "homepage": "https://github.com/Nimmathampavani9102007/typescript-demo-2500032210#readme",
+  "bugs": {
+    "url": "https://github.com/Nimmathampavani9102007/typescript-demo-2500032210/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimmathampavani9102007/typescript-demo-2500032210.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "devDependencies": {
     "typescript": "^5.9.3"
   }
